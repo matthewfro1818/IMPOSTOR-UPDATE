@@ -1,0 +1,397 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF idle dance"
+		},
+		{
+			"offsets": [
+				0,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BF NOTE LEFT0"
+		},
+		{
+			"offsets": [
+				-17,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BF NOTE DOWN0"
+		},
+		{
+			"offsets": [
+				-43,
+				8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BF NOTE UP0"
+		},
+		{
+			"offsets": [
+				-52,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BF NOTE RIGHT0"
+		},
+		{
+			"offsets": [
+				-1,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "BF NOTE LEFT MISS"
+		},
+		{
+			"offsets": [
+				-16,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "BF NOTE DOWN MISS"
+		},
+		{
+			"offsets": [
+				-36,
+				17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "BF NOTE UP MISS"
+		},
+		{
+			"offsets": [
+				-50,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "BF NOTE RIGHT MISS"
+		},
+		{
+			"offsets": [
+				-6,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "BF HEY"
+		},
+		{
+			"offsets": [
+				36,
+				41
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hurt",
+			"indices": [],
+			"name": "BF hit"
+		},
+		{
+			"offsets": [
+				-12,
+				1
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "BF idle shaking"
+		},
+		{
+			"offsets": [
+				303,
+				253
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "attack",
+			"indices": [],
+			"name": "boyfriend attack"
+		},
+		{
+			"offsets": [
+				-33,
+				-57
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "pre-attack",
+			"indices": [],
+			"name": "bf pre attack"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				-58
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "BFCOOLDOWN0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-33,
+				61
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "BFCOOLUP0"
+		},
+		{
+			"offsets": [
+				-12,
+				-43
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "beatbox-left",
+			"indices": [],
+			"name": "BF beatbox left0"
+		},
+		{
+			"offsets": [
+				-9,
+				-31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "beatbox-down",
+			"indices": [],
+			"name": "BF beatbox down0"
+		},
+		{
+			"offsets": [
+				-43,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "beatbox-up",
+			"indices": [],
+			"name": "BF beatbox up0"
+		},
+		{
+			"offsets": [
+				-16,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "beatbox-right",
+			"indices": [],
+			"name": "BF beatbox right0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				0
+			],
+			"anim": "HEY! Cool",
+			"fps": 24,
+			"name": "HEY COOL",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				75,
+				4
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "BFCOOLLEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				-7
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "BFCOOLRIGHT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				79,
+				17
+			],
+			"anim": "singLEFTmiss-alt",
+			"fps": 24,
+			"name": "BFCOOLLEFTMISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-39
+			],
+			"anim": "singDOWNmiss-alt",
+			"fps": 24,
+			"name": "BFCOOLDOWNMISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-32,
+				62
+			],
+			"anim": "singUPmiss-alt",
+			"fps": 24,
+			"name": "BFCOOLUPMISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				4
+			],
+			"anim": "singRIGHTmiss-alt",
+			"fps": 24,
+			"name": "BFCOOLRIGHTMISS",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-2,
+				11
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "dontcare",
+			"loop": true,
+			"name": "he doesnt care"
+		},
+		{
+			"offsets": [
+				-7,
+				1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hehasthehat",
+			"loop": false,
+			"name": "HEY COOL"
+		},
+		{
+			"offsets": [
+				-6,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "standinghere",
+			"loop": false,
+			"name": "standing here i realise"
+		},
+		{
+			"offsets": [
+				-6,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "you done or no",
+			"loop": false,
+			"name": "you done or no"
+		},
+		{
+			"offsets": [
+				-8,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-alt",
+			"loop": false,
+			"name": "you freakin serious"
+		},
+		{
+			"offsets": [
+				16,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "yolook",
+			"loop": true,
+			"name": "skill issue"
+		},
+		{
+			"offsets": [
+				-10,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "pleasedonthaveskillissue",
+			"loop": true,
+			"name": "dont tell me you have skill issue"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BOYFRIEND",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		100,
+		-40
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
